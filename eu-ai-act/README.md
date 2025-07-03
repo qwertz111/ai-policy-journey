@@ -14,6 +14,15 @@
 11. Aufzeichnungspflichten  
 12. Durchsetzung & Bußgelder  
 
-## Aufgaben-Checkliste
-- [ ] Länderspezifische Ausnahmen prüfen
-- [ ] Abschnitt “Transparenz” ausarbeiten :white_check_mark:
+### Zweck des EU AI Acts (Art 1(1)
+- Besseres Funktionieren des Binnenmarkts
+- Förderung einer **auf den Menschen ausgerichteten** KI
+- Schutz der:
+  - Gesundheit
+  - Sicherheit
+  - Grundrechte (Basis: Charta der Vereinten Nationen)
+    - Demokratie
+    - Rechtsstaatlichkeit
+    - Umweltschutz
+- Schutz vor schädlichen Auswirkungen von KI-Systemen allgemein
+- Unterstützung der Innovation
