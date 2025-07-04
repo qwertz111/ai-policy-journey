@@ -38,4 +38,4 @@
 
 > **Kurz-Erläuterung:** KI-Systeme sind *datengetrieben* und entwickeln sich nach der Inbetriebnahme weiter. Das erklärt die strengen Vorgaben zu **Risikomanagement (Art. 9)** und **Post-Market-Monitoring (Art. 61 ff.)** im EU AI Act.
 
-[^kc1]: Quelle: KI-Campus Online-Kurs *AI Act Essentials*, Modul 1 – 2025 · Lizenz CC BY-SA 4.0 :contentReference[oaicite:0]{index=0}
+[^kc1]: Quelle: KI-Campus Online-Kurs *AI Act Essentials*, Modul 1 – 2025 · Lizenz CC BY-SA 4.0
