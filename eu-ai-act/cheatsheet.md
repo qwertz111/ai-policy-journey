@@ -60,8 +60,15 @@
 
 **Strafen bei Verstößen:** bis zu 35 Mio. € oder 7 % des weltweiten Jahresumsatzes (Art. 99).  
 
+### Vereinfachte Compliance-Checkliste Art. 5 EU AI Act
+- [ ] **(1)(a)** Nutzt das System unterschwellige Techniken, um Individuen zu manipulieren?
+- [ ] **(1)(b)** Nutzt das System Schwachstellen spezifischer Gruppen (z. B. Kinder, Menschen mit Behinderung) aus, die zu physischen oder psychischen Schäden führen können?
+- [ ] **(1)(c)** Beinhaltet das System soziale Bewertungen („Social Scoring“) durch öffentliche Stellen, die zu Benachteiligungen führen können?
+- [ ] **(1)(d)** Nutzt das System Risikobewertungen, um vorherzusagen, ob eine Person eine Straftat begehen wird, basierend auf Profiling oder Persönlichkeitsmerkmalen?
+- [ ] **(1)(f)** Nutzt das System Emotionserkennung am Arbeitsplatz, in Bildungseinrichtungen oder anderen sensiblen Kontexten?
+- [ ] **(1)(h)** Nutzt das System biometrische Echtzeit-Fernidentifizierung zu Strafverfolgungszwecken?
 
-
+----------------------------------------------------------------------------
 
 ## Art. 9 – Risikomanagement  
 …  
