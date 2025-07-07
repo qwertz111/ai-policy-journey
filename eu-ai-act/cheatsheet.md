@@ -1,5 +1,7 @@
 # EU AI Act – Cheatsheet  
 
+[📝 Glossar der wichtigsten Begriffe](glossary.md)
+
 **12 Quick Facts**  
 1. Definition „KI-System“  
 2. Risikostufen  
