@@ -51,6 +51,7 @@ KI-Anwendungen im geschäftlichen oder öffentlichen Bereich, die in keine der a
 - KI in Videospielen  
 - Automatische E-Mail-Sortierung  
 
+---
 		
  ## Zeitplan
 
