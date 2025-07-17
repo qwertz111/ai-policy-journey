@@ -17,3 +17,11 @@
 \** *Anbieter = Provider (entwickelt/vertreibt); Betreiber = Deployer (setzt beruflich ein).*
 
 
+<!-- Bild einbetten -->
+![EU AI Act – Rollen & Pflichten (Screenshot)](img/rollen_pflichten.png)
+
+<!-- Quellen- und Lizenzhinweis -->
+> **Quelle:** KI-Campus (2025), *EU AI Act – Rollen & Pflichten*  
+> H5P-Aktivität im offenen Online-Kurs (Abruf: 17 Jul 2025)  
+> URL: <https://moodle.ki-campus.org/mod/h5pactivity/view.php?id=25586&forceview=1>  
+> Lizenz: Creative Commons [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
